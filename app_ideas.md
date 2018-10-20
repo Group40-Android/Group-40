@@ -1,33 +1,28 @@
-# Group-40
-http://x/x.gif
-## New App Ideas - List
-Ras
-1. Reptile Breeding App
- - Allows reptile owners to find other owners to find mates for their pet reptiles to create specific morphs or to reproduce offsprings. 
-2. Magic 8 Ball App
- - Allows users to ask questions and shake the Magic 8 Ball to generate random answers. To make this app unique, it should include user inputted answers.
+## Life Story
 
+### App Description
+// TODO: Essentially makes it so a bunch of random people can share their life stories and possibly help someone who’s going through that problem right now. It can also bring a good laugh and lighten up someone’s day.
+### App Idea Evaluation
+// TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 
+- Mobile: Allows use of camera and audio to tell the stories
+- Story: The values come from the stories and the people telling them. Peers would respond well to this product idea, pecause they like to hear stories
+- Market: Whoever has a phone, and enjoys stories.No well defined audience, usable by all
+- Habit: Pretty addictive, people are curious about other's lives, so they'll want to keep chacking up on them.. Users would both consume and create.
+- Scope:Preety good scope, it would be somewhat difficult, but impossible. Yes, the core idea is still there in the stripped-down version. Pretty well defined.
 
-Cookie
-1. Ghost communication app
-- app that allows users to interact wih "spirits". Having a bad day? So are they! When people sign up, they can sign up as a ghost or as a human, and if they are human, they can switch to a ghost, but not the other way around.
+---
 
+### User Stories
+// TODO: Enumerate User Stories
+1. User can...
 
-Guillermo
-1. School supplies for university students app
-- Allows users to log in to find listed items (used or not) on or near their campus that they may need for school at a discounted price. 
-2. Move-In Day app
-- Gives students a way to find things to do with their new roommates in the first couple of weeks of living together.
+---
 
+### Wireframes
+// TODO: Add Wireframe Images
 
+---
 
-
-Miguel
-1. Gaming/Social App
-- App that essentially works as a place to communicate with other players and kind of has an Instagram kind of interface that allows for posting photos or videos on things that happen in game
-2. Free Music App
-- App that basically lets you play whatever music you want for free, since every other music app charges for everything. This way you won't have to download illegal music off the internet.
-3. Astronomy App
-- Allows user to enter what notifications they'd like to see about space. Specifically, it notifies the user of things going down right over there heads, such as a comet, Mars being visible, or a satellite flying over your head.
-4. 
+### App Pitch Presentation
+// TODO: Add link to Pitch Presentation Deck
