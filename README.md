@@ -14,8 +14,67 @@
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+
+## 1. User Stories
+
+**Required Must-have Stories**
+
+* User can view a feed of stories
+* User can post photos with their stories
+* User can create a new account
+* User can login
+* User can search for other users
+* User can like a story
+* User can follow/unfollow another user
+
+**Optional Nice-to-have Stories**
+
+* User can add a comment to a story
+* User can tap a photo to view a more detailed photo
+* User can see trending stories
+* User can search for stories by a hashtag
+* User can see notifications when their story is liked or they are followed
+* User can see their profile page with their stories
+* User can see a list of their followers
+* User can see a list of the people they follow
+* User can view other user’s profiles and see their story feed
+
+## 2. Screen Archetypes
+
+* Login Screen
+  * user can login
+* Registration
+  * user can create a new account
+* Stream
+  * user can view stories
+  * user can like a story
+* Creation
+  * user can post a new story to their feed
+* Search
+  * user can follow/unfollow other users
+  * user can search for others
+  
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+* Home Screen
+* Post a Story
+* Search User
+
+**Flow Navigation** (Screen to Screen)
+
+* Login Screen
+   * Home
+* Registration
+   * Home
+* Stream
+   * Home
+   * Comments on story
+* Creation
+   * Home after typing up story
+* Search
+   * None
 
 ---
 
