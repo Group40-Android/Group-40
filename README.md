@@ -79,8 +79,10 @@
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://imgur.com/a/EyvEIz2" width="800" />
 
+
+<img src="http://g.recordit.co/D5BKjMSQOk.gif" width=200><br>
 ---
 
 ### App Pitch Presentation
