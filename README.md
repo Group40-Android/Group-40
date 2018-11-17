@@ -79,9 +79,10 @@
 ---
 
 ### Wireframes
-<img src="https://imgur.com/a/EyvEIz2" width="800" />
+Wireframe Image:
+![screen shot 2018-11-17 at 3 01 06 pm](https://user-images.githubusercontent.com/6014846/48666813-ada6c700-ea7d-11e8-81d8-9bbfa6390b5b.png)
 
-
+Wireframe Prototype:
 <img src="http://g.recordit.co/D5BKjMSQOk.gif" width=200><br>
 ---
 
